@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{89394117-7763-4778-A0DB-A13775853CDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{507B0E6C-2B9D-421A-838A-C654D19C2908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RB.CodeFlix.Catalog.UnitTests", "tests\RB.CodeFlix.Catalog.UnitTests\RB.CodeFlix.Catalog.UnitTests.csproj", "{9886EB1D-B210-4A6D-A8DA-CC61DAD853B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9886EB1D-B210-4A6D-A8DA-CC61DAD853B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9886EB1D-B210-4A6D-A8DA-CC61DAD853B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9886EB1D-B210-4A6D-A8DA-CC61DAD853B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9886EB1D-B210-4A6D-A8DA-CC61DAD853B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9886EB1D-B210-4A6D-A8DA-CC61DAD853B9} = {507B0E6C-2B9D-421A-838A-C654D19C2908}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DADC037A-6215-424B-B4D1-10450B06DBBF}
+	EndGlobalSection
+EndGlobal
