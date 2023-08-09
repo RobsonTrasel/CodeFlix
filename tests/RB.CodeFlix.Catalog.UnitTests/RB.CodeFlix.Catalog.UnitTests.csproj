@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="domain\" />
+    <ProjectReference Include="..\..\src\RB.CodeFlix.Catalog.Domain\RB.CodeFlix.Catalog.Domain.csproj" />
   </ItemGroup>
 
 </Project>
